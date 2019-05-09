@@ -1,6 +1,8 @@
+background-color: #99ccff
+
 h1 {
 	font-size: 24px;
-	text-align: left;
+	text-align: right;
 	font-family: Helvetica;
 }
 	
@@ -19,5 +21,10 @@ h3 {
 
 p {
 	font-size: 18px;
-	font-family:  Arial
+	font-family:  Arial;
+}
+
+ul {
+	font-family:  Arial;
+	font-size: 20
 }
